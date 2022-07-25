@@ -14,4 +14,4 @@ O projeto é um formulário que realiza o cadastro de clientes através de uma A
 
 ## ✒️ Link do Projeto
 
-* **<a href="https://hunterland.github.io/apicep/" target="_blank">apicep</a>**
+* **<a href="https://hunterland.github.io/apicep/">apicep</a>**
